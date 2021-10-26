@@ -139,21 +139,5 @@ hr{ /* stilizovanje horizontalne linije */
     transition:0.5s ease;
     background-color:rgba(255,0,0,.3);
 }
-/* 
-///////////////NAPOMENA/////////////// 
-Klase i atributi koji su dodati ove nedelje kao materijal nisu samo od 80te linije koda
-vec su atributi dodati i medju elemente od prosle nedelje, tako da obratite paznju i 
-na elemente od prosle nedelje.
-Postoje neki atributi koji nisu spomenuti ove nedelje, a dodati su radi estetike stranice
-(transition, scroll-behavior)
-
-PREPORUKA 
-Najlaksi nacin provere CSSa i samih izmena na stranici, mozete postici ulazenjem u
-Inspect element ( desni klik na odredjeni element na veb stranici -> Inspect (Chrome), 
-Inspect Element (Mozzila), gde mozete direktno da menjate svojsta elemenata i da proverite kako
-ce se ti elementi ponasati sa drugim vrednostima. Te proverene vrednosti zatim morate 
-da promenite u kodu kada budete sigurni da svojsta sa novim vrednostima rade onako
-kako ste vi to zamislili, tako da smatrajte Inspect element svojim jako dobrim prijateljem.
-
-Za sva dodatna pitanja kontaktirajte me preko mejla : opalic@vtsns.edu.rs 
-*/
+<!-- OVO JE TEST-->
+<!--https://github.com/kresa23/projekat.git-->
